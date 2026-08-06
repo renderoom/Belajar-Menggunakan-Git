@@ -4,3 +4,4 @@
 - Install OpenViking
 - Belajar Git
 - Download Dokumen Hermes
+- Buat Agen Hermes untuk mempelajari ChatGPT
