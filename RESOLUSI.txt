@@ -3,3 +3,6 @@
 - Belajar Git
 - Download Dokumen Hermes
 - Buat Agen Hermes untuk mempelajari ChatGPT
+
+# Project AIRI
+- Install Project AIRI dari https://github.com/moeru-ai/airi
