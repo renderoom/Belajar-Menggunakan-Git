@@ -1,6 +1,4 @@
 # Resolusi
-- Install Hermes
-- Install Hindsight
 - Install OpenViking
 - Belajar Git
 - Download Dokumen Hermes
