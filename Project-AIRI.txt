@@ -1,1 +1,2 @@
-Install Project AIRI dari https://github.com/moeru-ai/airi
+Download Project AIRI dari https://github.com/moeru-ai/airi
+Install Project AIRI
