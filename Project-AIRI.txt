@@ -1,0 +1,3 @@
+Download Project AIRI dari https://github.com/moeru-ai/airi
+Install Project AIRI
+Menghubungkan dengan model LLM
